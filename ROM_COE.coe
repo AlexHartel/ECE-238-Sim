@@ -1,8 +1,5 @@
-; This .COW file is for use with a ROM
-; memory of depth=4, width=8.
-; Values specified in hexdicimal format.
 memory_initialization_radix=16;
-memory_initialzation_vector=
+memory_initialization_vector=
 03,
 9F,
 25,
